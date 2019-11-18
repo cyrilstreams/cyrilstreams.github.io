@@ -2,7 +2,7 @@
 <head>
 <title>Tron Legacy</title>
 </head>
-<body>
+<body style="background-image: url('/icons/tlbg.jpg'); background-repeat:no-repeat; background-size:cover">
 <h2>
 <th><a href="..">Back</a></th>
 <th><a href="/index.html">Home</a></th>
