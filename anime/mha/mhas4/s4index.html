@@ -1,5 +1,11 @@
 <!doctype html>
 <head>
+  <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("episodes.html"); 
+    });
+    </script>
 <title>My Hero Academia Season 4</title>
 </head>
 <body style="background-image: url('/icons/mha/bg.jpg');" width="420" height="270">
@@ -27,5 +33,5 @@
       <br>generation of superheroes.</td>
     </tr>
     </table>
-  <iframe src="episodes.html" width="640" height="100"></iframe>
+  <div id="includedContent"></div>
 </body>
