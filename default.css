@@ -13,7 +13,8 @@ td {
   color: white;
 }
 th {
-  border-collapse: collapse white;
+  border-collapse: collapse;
+  border: 1px solid white;
   background-color: #4CAF50;
   color: white;
 }
